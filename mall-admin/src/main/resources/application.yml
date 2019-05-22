@@ -15,10 +15,10 @@ jwt:
 
 aliyun:
   oss:
-    endpoint: oss-cn-shenzhen.aliyuncs.com
-    accessKeyId: test
-    accessKeySecret: test
-    bucketName: macro-oss
+    endpoint: oss-cn-shanghai.aliyuncs.com
+    accessKeyId: LTAI1qpgn7FUqb7R
+    accessKeySecret: CdmxdKJvBlk0wTqXoZHawJKEeAtM0X
+    bucketName: bsbnj-oss
     policy:
       expire: 300
     maxSize: 10
